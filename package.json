@@ -9,7 +9,7 @@
   },
   "name": "playwith-reactnative",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "node_modules/expo/AppEntry.js",
   "repository": "https://github.com/anugrah-danang-abiyoga/playwith-reactnative.git",
   "author": "anugrah-danang-abiyoga <31435942+anugrah-danang-abiyoga@users.noreply.github.com>",
   "license": "MIT"
