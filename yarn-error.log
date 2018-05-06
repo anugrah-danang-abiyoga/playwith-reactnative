@@ -1,0 +1,32 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js install -g create-react-native-app
+
+PATH: 
+  C:\Users\HP\.babun\cygwin\home\HP\.local\bin;C:\Users\HP\.babun\cygwin\usr\local\bin;C:\Users\HP\.babun\cygwin\usr\local\bin;C:\Users\HP\.babun\cygwin\bin;C:\Users\HP\.babun\cygwin\home\HP\.local\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApp;.;C:\Users\HP\.babu;.;C:\Users\HP\AppData\Local\atom\app-1.24.;.;C:\Program Files\Microsoft VS Code\bin;C:\Users\HP\AppData\Roaming\npm;C:\Users\HP\AppData\Local\Yarn\bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.9.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: `--global` has been deprecated. Please run "yarn global add create-react-native-app" instead.
+      at new MessageError (C:\Program Files (x86)\Yarn\lib\cli.js:186:110)
+      at Object.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:21987:13)
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:98:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:109:13
+      at <anonymous>
