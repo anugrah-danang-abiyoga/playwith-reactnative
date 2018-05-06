@@ -1,5 +1,11 @@
 {
   "dependencies": {
     "create-react-native-app": "^1.0.0"
-  }
+  },
+  "name": "playwith-reactnative",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anugrah-danang-abiyoga/playwith-reactnative.git",
+  "author": "anugrah-danang-abiyoga <31435942+anugrah-danang-abiyoga@users.noreply.github.com>",
+  "license": "MIT"
 }
